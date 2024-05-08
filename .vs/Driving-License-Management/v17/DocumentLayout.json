@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\A new beginning \uD83D\uDCAA\\Driving-License-Management\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DDF66803-B2BE-41D0-A5FB-20BFFBF5B03D}|Driving-License-Management.csproj|d:\\a new beginning \uD83D\uDCAA\\driving-license-management\\frmaddnewuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DDF66803-B2BE-41D0-A5FB-20BFFBF5B03D}|Driving-License-Management.csproj|solutionrelative:frmaddnewuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDF66803-B2BE-41D0-A5FB-20BFFBF5B03D}|Driving-License-Management.csproj|d:\\a new beginning \uD83D\uDCAA\\driving-license-management\\frmadd_editperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDF66803-B2BE-41D0-A5FB-20BFFBF5B03D}|Driving-License-Management.csproj|solutionrelative:frmadd_editperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDF66803-B2BE-41D0-A5FB-20BFFBF5B03D}|Driving-License-Management.csproj|d:\\a new beginning \uD83D\uDCAA\\driving-license-management\\frmadd_editperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DDF66803-B2BE-41D0-A5FB-20BFFBF5B03D}|Driving-License-Management.csproj|solutionrelative:frmadd_editperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDF66803-B2BE-41D0-A5FB-20BFFBF5B03D}|Driving-License-Management.csproj|d:\\a new beginning \uD83D\uDCAA\\driving-license-management\\frmaddnewuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDF66803-B2BE-41D0-A5FB-20BFFBF5B03D}|Driving-License-Management.csproj|solutionrelative:frmaddnewuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDF66803-B2BE-41D0-A5FB-20BFFBF5B03D}|Driving-License-Management.csproj|d:\\a new beginning \uD83D\uDCAA\\driving-license-management\\ctrladdeditperson_info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DDF66803-B2BE-41D0-A5FB-20BFFBF5B03D}|Driving-License-Management.csproj|solutionrelative:ctrladdeditperson_info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDF66803-B2BE-41D0-A5FB-20BFFBF5B03D}|Driving-License-Management.csproj|d:\\a new beginning \uD83D\uDCAA\\driving-license-management\\frmchangepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDF66803-B2BE-41D0-A5FB-20BFFBF5B03D}|Driving-License-Management.csproj|solutionrelative:frmchangepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDF66803-B2BE-41D0-A5FB-20BFFBF5B03D}|Driving-License-Management.csproj|d:\\a new beginning \uD83D\uDCAA\\driving-license-management\\frmchangepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DDF66803-B2BE-41D0-A5FB-20BFFBF5B03D}|Driving-License-Management.csproj|solutionrelative:frmchangepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 550,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmAdd_EditPerson.cs [Design]",
+              "DocumentMoniker": "D:\\A new beginning \uD83D\uDCAA\\Driving-License-Management\\frmAdd_EditPerson.cs",
+              "RelativeDocumentMoniker": "frmAdd_EditPerson.cs",
+              "ToolTip": "D:\\A new beginning \uD83D\uDCAA\\Driving-License-Management\\frmAdd_EditPerson.cs [Design]",
+              "RelativeToolTip": "frmAdd_EditPerson.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T17:35:29.128Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmAdd_EditPerson.cs",
+              "DocumentMoniker": "D:\\A new beginning \uD83D\uDCAA\\Driving-License-Management\\frmAdd_EditPerson.cs",
+              "RelativeDocumentMoniker": "frmAdd_EditPerson.cs",
+              "ToolTip": "D:\\A new beginning \uD83D\uDCAA\\Driving-License-Management\\frmAdd_EditPerson.cs",
+              "RelativeToolTip": "frmAdd_EditPerson.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T17:30:18.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ctrlAddEditPerson_Info.cs [Design]",
+              "DocumentMoniker": "D:\\A new beginning \uD83D\uDCAA\\Driving-License-Management\\ctrlAddEditPerson_Info.cs",
+              "RelativeDocumentMoniker": "ctrlAddEditPerson_Info.cs",
+              "ToolTip": "D:\\A new beginning \uD83D\uDCAA\\Driving-License-Management\\ctrlAddEditPerson_Info.cs [Design]",
+              "RelativeToolTip": "ctrlAddEditPerson_Info.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T17:24:47.595Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmAddNewUser.cs [Design]",
+              "DocumentMoniker": "D:\\A new beginning \uD83D\uDCAA\\Driving-License-Management\\frmAddNewUser.cs",
+              "RelativeDocumentMoniker": "frmAddNewUser.cs",
+              "ToolTip": "D:\\A new beginning \uD83D\uDCAA\\Driving-License-Management\\frmAddNewUser.cs [Design]",
+              "RelativeToolTip": "frmAddNewUser.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T17:11:35.307Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmAddNewUser.cs",
+              "DocumentMoniker": "D:\\A new beginning \uD83D\uDCAA\\Driving-License-Management\\frmAddNewUser.cs",
+              "RelativeDocumentMoniker": "frmAddNewUser.cs",
+              "ToolTip": "D:\\A new beginning \uD83D\uDCAA\\Driving-License-Management\\frmAddNewUser.cs",
+              "RelativeToolTip": "frmAddNewUser.cs",
+              "ViewState": "AQIAAO8AAAAAyMzMzAwiwPoAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T15:51:15.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmChangePassword.cs",
+              "DocumentMoniker": "D:\\A new beginning \uD83D\uDCAA\\Driving-License-Management\\frmChangePassword.cs",
+              "RelativeDocumentMoniker": "frmChangePassword.cs",
+              "ToolTip": "D:\\A new beginning \uD83D\uDCAA\\Driving-License-Management\\frmChangePassword.cs",
+              "RelativeToolTip": "frmChangePassword.cs",
+              "ViewState": "AQIAAKUAAABgzMzMzEw4wAgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T15:51:41.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmChangePassword.cs [Design]",
+              "DocumentMoniker": "D:\\A new beginning \uD83D\uDCAA\\Driving-License-Management\\frmChangePassword.cs",
+              "RelativeDocumentMoniker": "frmChangePassword.cs",
+              "ToolTip": "D:\\A new beginning \uD83D\uDCAA\\Driving-License-Management\\frmChangePassword.cs [Design]",
+              "RelativeToolTip": "frmChangePassword.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T15:50:57.018Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

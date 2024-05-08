@@ -1,0 +1,6 @@
+D:\A new beginning 💪\Driving-License-Management\DVLD_DataAccessLayer\bin\Debug\DVLD_DataAccessLayer.dll
+D:\A new beginning 💪\Driving-License-Management\DVLD_DataAccessLayer\bin\Debug\DVLD_DataAccessLayer.pdb
+D:\A new beginning 💪\Driving-License-Management\DVLD_DataAccessLayer\obj\Debug\DVLD_DataAccessLayer.csproj.AssemblyReference.cache
+D:\A new beginning 💪\Driving-License-Management\DVLD_DataAccessLayer\obj\Debug\DVLD_DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\A new beginning 💪\Driving-License-Management\DVLD_DataAccessLayer\obj\Debug\DVLD_DataAccessLayer.dll
+D:\A new beginning 💪\Driving-License-Management\DVLD_DataAccessLayer\obj\Debug\DVLD_DataAccessLayer.pdb
